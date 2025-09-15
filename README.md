@@ -1,6 +1,6 @@
 # SNM Task Management System
 
-🚀 **Live Demo:** [https://anjali20082003.github.io/TO-Do/](https://anjali20082003.github.io/TO-Do/)
+🚀 **Live Demo:** [https://anjali20082003.github.io/To-Do-List/](https://anjali20082003.github.io/To-Do-List/)
 
 📅 **Last Updated:** September 15, 2025
 
