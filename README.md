@@ -2,6 +2,8 @@
 
 🚀 **Live Demo:** [https://anjali20082003.github.io/TO-Do/](https://anjali20082003.github.io/TO-Do/)
 
+📅 **Last Updated:** September 15, 2025
+
 A modern, responsive To-Do List application built with React, TypeScript, and localStorage for efficient task management.
 
 ## 🚀 Features
